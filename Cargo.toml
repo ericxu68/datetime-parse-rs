@@ -12,7 +12,7 @@ repository = "https://github.com/marirs/marirs/datetime-parse-rs"
 edition = "2021"
 
 [dependencies]
-chrono = "0.4.19"
+chrono = "0.4.24"
 
 [badges]
 travis-ci = { repository = "marirs/datetime-parse-rs" }
